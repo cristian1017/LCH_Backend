@@ -37,7 +37,8 @@ Crear un archivo `.env` en la raiz del proyecto, donde se definiran las siguient
 - HOST_FTP = su host del FTP
 - USERNAME_FTP =  su usuario del FTP
 - PASSWORD_FTP =  su clave del FTP
-###Paso 4
+
+### Paso 4
 Ejecutar `npm run dev`, para correr la API creada.
 
 ### Paso a seguir
